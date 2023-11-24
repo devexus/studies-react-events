@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/studies-react-events/static/css/main.2e39b30c.css",
+    "main.js": "/studies-react-events/static/js/main.8a742fd1.js",
+    "static/js/787.f172228c.chunk.js": "/studies-react-events/static/js/787.f172228c.chunk.js",
+    "static/media/logo.jpg": "/studies-react-events/static/media/logo.368ddb4452066b008383.jpg",
+    "index.html": "/studies-react-events/index.html",
+    "main.2e39b30c.css.map": "/studies-react-events/static/css/main.2e39b30c.css.map",
+    "main.8a742fd1.js.map": "/studies-react-events/static/js/main.8a742fd1.js.map",
+    "787.f172228c.chunk.js.map": "/studies-react-events/static/js/787.f172228c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e39b30c.css",
+    "static/js/main.8a742fd1.js"
+  ]
+}
